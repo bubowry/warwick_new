@@ -258,6 +258,7 @@ namespace Warwick
         }
         //test commit github
         //test brach v.1.0.1
+        //test branch v.1.0.2
         private bool SageProductQuery(string Ref1)
         {
             string queryString = String.Format("prod_code = '{0}'", Ref1);
